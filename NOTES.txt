@@ -1,0 +1,9 @@
+Description_
+This program aims to check cyclicly the 'Case conflicts' of Dropbox, to prevent editing in that place and losing data
+
+Requirements_
+-If this script is not in crontab introduce itself
+-Check for 'Case conflicts' inside Dropbox folder
+
+Design_
+
